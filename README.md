@@ -10,7 +10,7 @@ cs666\_project.ipynb
     - Download Jupyter Notebook
         - Use https://jupyter.org/ for reference. 
     - Upload jupyter notebook file (source code) to IDE
-        - Reference to source code and results are in this link: https://github.com/leyulin/entropy_project/blob/main/cs666_project.ipynb
+        - Reference to source code and results are in this link: https://github.com/leyulin/cs666_finalproject
     - Run File in Jupyter Notebook
 
     Note: We tried to upload the whole dataset to github but was rejected due to sizing constraints(100MB). For our experiment, we took partial data from the original computed dataset for demonstration purposes. The running result is already displayed in jupyter notebook and follows the execution flow. To rerun source code, run each cell from the top (one by one). 
